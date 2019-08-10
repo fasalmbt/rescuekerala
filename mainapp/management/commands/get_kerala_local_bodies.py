@@ -92,7 +92,7 @@ class Command(BaseCommand):
                   "wards": {
                     "G04001001": "001 - MATHANAM",
                     "G04001002": "002 - OFFICE",
-                    "G04001003": "003 - ST ANTONYS ",
+                    "G04001003": "003 - ST ANTONY'S ",
                     ...
                   }
                 },
